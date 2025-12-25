@@ -1,0 +1,14 @@
+f1-wiki/
+│
+├── index.html         # Homepage
+├── drivers.html       # Page with all drivers listed
+├── driver.html        # Individual driver page (template)
+│
+├── css/
+│   └── style.css      # Stylesheet
+│
+├── js/
+│   └── script.js      # JavaScript for dynamic behavior
+│
+└── data/
+    └── drivers.json   # JSON file with all driver info
