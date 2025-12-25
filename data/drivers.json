@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Lewis Hamilton",
+    "birthdate": "1985-01-07",
+    "debut": 2007,
+    "team": "Mercedes",
+    "nationality": "British"
+  },
+  {
+    "name": "Max Verstappen",
+    "birthdate": "1997-09-30",
+    "debut": 2015,
+    "team": "Red Bull Racing",
+    "nationality": "Dutch"
+  },
+  {
+    "name": "Fernando Alonso",
+    "birthdate": "1981-07-29",
+    "debut": 2001,
+    "team": "Aston Martin",
+    "nationality": "Spanish"
+  }
+]
